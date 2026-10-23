@@ -6,7 +6,7 @@
 
 Inoffizielles Fan-Projekt (ohne Verbindung zum SGV Heilbronn-Freiberg Fußball e. V.). Gleiche Technik und gleicher Aufbau wie die anderen Fan-Quiz-Projekte, Inhalte komplett neu.
 
-**Datei:** `index.html` (eine Datei, offline lauffähig, Version 1.0.0, Stand 23.10.2026). Einfach im Browser öffnen oder auf einem Webserver ablegen.
+**Datei:** `index.html` (eine Datei, offline lauffähig, Version 1.0.1, Stand 23.10.2026). Einfach im Browser öffnen oder auf einem Webserver ablegen.
 
 > **Veröffentlichung:** GitHub-Repository `sgvheilbronnfreiberg` (Benutzer `nosz`), Adresse `https://nosz.github.io/sgvheilbronnfreiberg/`. Alle Dateien der Liste unten ins Hauptverzeichnis des Repositories legen (ohne Unterordner), GitHub Pages auf den Hauptzweig (Branch) stellen. Bei anderer Adresse in `index.html` (canonical, og:url, og:image, twitter:image, `SHARE_URL`), in `manifest.webmanifest` (`id`) und in dieser README anpassen.
 
@@ -46,4 +46,5 @@ Marineblau, helles Blau und Weiß, nach dem Auftritt von sgv-freiberg-fussball.d
 - Vor einer öffentlichen Veröffentlichung Marken- und Stil-Anlehnung mit Management/Legal klären.
 
 ## Änderungsprotokoll
+- 1.0.1 (23.10.2026): Urkunden: kleine runde Fußbälle als Schmuck statt der eckigen Quadrate, im Siegel ein runder Ball statt des Pixel-Logos.
 - 1.0.0 (23.10.2026): Erstfassung, abgeleitet aus der Technik des SCHALKE-Projekts (Version 1.1.5): SGV-Fanquiz mit 7 Spieltagen, kleinem Fußball als Figur (Deutsch, Englisch, Schwäbisch), Namensfrage, Lob, Installieren-Knopf, Zertifikaten mit Teilen-Funktion und Test-Suite.
